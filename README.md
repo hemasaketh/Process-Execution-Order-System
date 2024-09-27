@@ -1,1 +1,1 @@
-# Cpusheduler
+# CPU-scheduling-simulator
